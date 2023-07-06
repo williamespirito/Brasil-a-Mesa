@@ -1,0 +1,7 @@
+{
+  "name": "brasil_a_mesa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
